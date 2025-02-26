@@ -1,0 +1,17 @@
+{"time":"2025-02-26T18:32:10.8731059+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-26T18:32:10.8731279+08:00","level":"INFO","msg":"created symlink","path":"D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1\\wandb\\run-20250226_183210-zpk1kvk7\\logs\\debug-core.log"}
+{"time":"2025-02-26T18:32:10.9807364+08:00","level":"INFO","msg":"created new stream","id":"zpk1kvk7"}
+{"time":"2025-02-26T18:32:10.9807364+08:00","level":"INFO","msg":"stream: started","id":"zpk1kvk7"}
+{"time":"2025-02-26T18:32:10.9807364+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:32:10.9807364+08:00","level":"INFO","msg":"handler: started","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:32:10.9807364+08:00","level":"INFO","msg":"sender: started","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:32:11.7238197+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T18:34:21.3733651+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-26T18:34:21.3738818+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-26T18:34:22.3788352+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4818038},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4423153,"progress":"218B/218B"},{"desc":"uploading config.yaml","runtime_seconds":0.1926476,"progress":"631B/631B"},{"desc":"uploading output.log","runtime_seconds":0.1926476,"progress":"3.2KB/3.2KB"}],"total_operations":4}}
+{"time":"2025-02-26T18:34:22.711165+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-26T18:34:24.3566519+08:00","level":"INFO","msg":"stream: closing","id":"zpk1kvk7"}
+{"time":"2025-02-26T18:34:24.3566519+08:00","level":"INFO","msg":"handler: closed","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:34:24.3566519+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:34:24.3566519+08:00","level":"INFO","msg":"sender: closed","stream_id":"zpk1kvk7"}
+{"time":"2025-02-26T18:34:24.3566519+08:00","level":"INFO","msg":"stream: closed","id":"zpk1kvk7"}

@@ -1,0 +1,70 @@
+Epoch [1/10], Step [100/625], Loss: 131.9300
+Epoch [1/10], Step [200/625], Loss: 2.3065
+Epoch [1/10], Step [300/625], Loss: 2.3085
+Epoch [1/10], Step [400/625], Loss: 2.3086
+Epoch [1/10], Step [500/625], Loss: 2.3090
+Epoch [1/10], Step [600/625], Loss: 2.3069
+Epoch [1/10], Validation Loss: 2.3098, Validation Accuracy: 9.76%
+Epoch [2/10], Step [100/625], Loss: 2.3102
+Epoch [2/10], Step [200/625], Loss: 2.3087
+Epoch [2/10], Step [300/625], Loss: 2.3096
+Epoch [2/10], Step [400/625], Loss: 2.3089
+Epoch [2/10], Step [500/625], Loss: 2.3082
+Epoch [2/10], Step [600/625], Loss: 2.3091
+Epoch [2/10], Validation Loss: 2.3069, Validation Accuracy: 10.53%
+Epoch [3/10], Step [100/625], Loss: 2.3100
+Epoch [3/10], Step [200/625], Loss: 2.3091
+Epoch [3/10], Step [300/625], Loss: 2.3088
+Epoch [3/10], Step [400/625], Loss: 2.3105
+Epoch [3/10], Step [500/625], Loss: 2.3095
+Epoch [3/10], Step [600/625], Loss: 2.3102
+Epoch [3/10], Validation Loss: 2.3059, Validation Accuracy: 10.29%
+Epoch [4/10], Step [100/625], Loss: 2.3108
+Epoch [4/10], Step [200/625], Loss: 2.3095
+Epoch [4/10], Step [300/625], Loss: 2.3091
+Epoch [4/10], Step [400/625], Loss: 2.3097
+Epoch [4/10], Step [500/625], Loss: 2.3082
+Epoch [4/10], Step [600/625], Loss: 2.3083
+Epoch [4/10], Validation Loss: 2.3095, Validation Accuracy: 9.93%
+Epoch [5/10], Step [100/625], Loss: 2.3081
+Epoch [5/10], Step [200/625], Loss: 2.3085
+Epoch [5/10], Step [300/625], Loss: 2.3108
+Epoch [5/10], Step [400/625], Loss: 2.3099
+Epoch [5/10], Step [500/625], Loss: 2.3083
+Epoch [5/10], Step [600/625], Loss: 2.3096
+Epoch [5/10], Validation Loss: 2.3131, Validation Accuracy: 10.53%
+Epoch [6/10], Step [100/625], Loss: 2.3088
+Epoch [6/10], Step [200/625], Loss: 2.3096
+Epoch [6/10], Step [300/625], Loss: 2.3109
+Epoch [6/10], Step [400/625], Loss: 2.3103
+Epoch [6/10], Step [500/625], Loss: 2.3097
+Epoch [6/10], Step [600/625], Loss: 2.3092
+Epoch [6/10], Validation Loss: 2.3087, Validation Accuracy: 10.21%
+Epoch [7/10], Step [100/625], Loss: 2.3111
+Epoch [7/10], Step [200/625], Loss: 2.3093
+Epoch [7/10], Step [300/625], Loss: 2.3091
+Epoch [7/10], Step [400/625], Loss: 2.3104
+Epoch [7/10], Step [500/625], Loss: 2.3093
+Epoch [7/10], Step [600/625], Loss: 2.3086
+Epoch [7/10], Validation Loss: 2.3076, Validation Accuracy: 9.93%
+Epoch [8/10], Step [100/625], Loss: 2.3085
+Epoch [8/10], Step [200/625], Loss: 2.3108
+Epoch [8/10], Step [300/625], Loss: 2.3084
+Epoch [8/10], Step [400/625], Loss: 2.3082
+Epoch [8/10], Step [500/625], Loss: 2.3098
+Epoch [8/10], Step [600/625], Loss: 2.3086
+Epoch [8/10], Validation Loss: 2.3074, Validation Accuracy: 9.90%
+Epoch [9/10], Step [100/625], Loss: 2.3083
+Epoch [9/10], Step [200/625], Loss: 2.3077
+Epoch [9/10], Step [300/625], Loss: 2.3093
+Epoch [9/10], Step [400/625], Loss: 2.3081
+Epoch [9/10], Step [500/625], Loss: 2.3100
+Epoch [9/10], Step [600/625], Loss: 2.3093
+Epoch [9/10], Validation Loss: 2.3103, Validation Accuracy: 10.21%
+Epoch [10/10], Step [100/625], Loss: 2.3085
+Epoch [10/10], Step [200/625], Loss: 2.3097
+Epoch [10/10], Step [300/625], Loss: 2.3095
+Epoch [10/10], Step [400/625], Loss: 2.3104
+Epoch [10/10], Step [500/625], Loss: 2.3091
+Epoch [10/10], Step [600/625], Loss: 2.3083
+Epoch [10/10], Validation Loss: 2.3100, Validation Accuracy: 9.90%

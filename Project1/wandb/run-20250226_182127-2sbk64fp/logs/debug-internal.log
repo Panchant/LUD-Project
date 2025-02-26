@@ -1,0 +1,16 @@
+{"time":"2025-02-26T18:21:27.7685619+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-26T18:21:27.7685619+08:00","level":"INFO","msg":"created symlink","path":"D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1\\wandb\\run-20250226_182127-2sbk64fp\\logs\\debug-core.log"}
+{"time":"2025-02-26T18:21:27.8782754+08:00","level":"INFO","msg":"created new stream","id":"2sbk64fp"}
+{"time":"2025-02-26T18:21:27.8782754+08:00","level":"INFO","msg":"stream: started","id":"2sbk64fp"}
+{"time":"2025-02-26T18:21:27.8782754+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:21:27.8782754+08:00","level":"INFO","msg":"handler: started","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:21:27.8782754+08:00","level":"INFO","msg":"sender: started","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:21:28.55991+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T18:22:02.6782837+08:00","level":"INFO","msg":"stream: closing","id":"2sbk64fp"}
+{"time":"2025-02-26T18:22:02.6782837+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-26T18:22:02.6787972+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-26T18:22:03.7573965+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-26T18:22:04.4125458+08:00","level":"INFO","msg":"handler: closed","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:22:04.4125458+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:22:04.4125458+08:00","level":"INFO","msg":"sender: closed","stream_id":"2sbk64fp"}
+{"time":"2025-02-26T18:22:04.4131124+08:00","level":"INFO","msg":"stream: closed","id":"2sbk64fp"}

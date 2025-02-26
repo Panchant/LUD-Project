@@ -1,0 +1,17 @@
+{"time":"2025-02-26T19:05:23.7356171+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-26T19:05:23.7356171+08:00","level":"INFO","msg":"created symlink","path":"D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1\\wandb\\run-20250226_190523-wlpgpvph\\logs\\debug-core.log"}
+{"time":"2025-02-26T19:05:23.843407+08:00","level":"INFO","msg":"created new stream","id":"wlpgpvph"}
+{"time":"2025-02-26T19:05:23.843407+08:00","level":"INFO","msg":"stream: started","id":"wlpgpvph"}
+{"time":"2025-02-26T19:05:23.843407+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:05:23.843407+08:00","level":"INFO","msg":"handler: started","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:05:23.843407+08:00","level":"INFO","msg":"sender: started","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:05:24.551572+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T19:07:14.74242+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-26T19:07:14.7429282+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-26T19:07:15.7562724+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.4380327},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3952542,"progress":"216B/216B"},{"desc":"uploading config.yaml","runtime_seconds":0.1421797,"progress":"631B/631B"},{"desc":"uploading output.log","runtime_seconds":0.1421797,"progress":"3.2KB/3.2KB"}],"total_operations":4}}
+{"time":"2025-02-26T19:07:16.399132+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-26T19:07:18.0583+08:00","level":"INFO","msg":"stream: closing","id":"wlpgpvph"}
+{"time":"2025-02-26T19:07:18.0583+08:00","level":"INFO","msg":"handler: closed","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:07:18.0583+08:00","level":"INFO","msg":"sender: closed","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:07:18.0583+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wlpgpvph"}
+{"time":"2025-02-26T19:07:18.0583+08:00","level":"INFO","msg":"stream: closed","id":"wlpgpvph"}

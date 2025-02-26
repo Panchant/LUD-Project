@@ -1,0 +1,32 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "3.12.9",
+  "startedAt":  "2025-02-26T10:24:29.406981Z",
+  "program":  "D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1\\train.py",
+  "codePath":  "Project1\\train.py",
+  "git":  {
+    "remote":  "git@github.com:Panchant/LUD-Project.git",
+    "commit":  "1d6cc28816e5376844d647c982d3aa2f18d8124b"
+  },
+  "email":  "Panchant@stu.xjtu.edu.cn",
+  "root":  "D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1",
+  "host":  "DESKTOP-Q64GDMO",
+  "username":  "Panchant",
+  "executable":  "D:\\Developing\\conda\\envs\\env-lud\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "593516032000",
+      "used":  "199536918528"
+    }
+  },
+  "memory":  {
+    "total":  "16348708864"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  }
+}

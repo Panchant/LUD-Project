@@ -1,0 +1,17 @@
+{"time":"2025-02-26T18:24:29.4090437+08:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-26T18:24:29.4090437+08:00","level":"INFO","msg":"created symlink","path":"D:\\Learning\\LUD\\LUD_Project\\LUD-Project\\Project1\\wandb\\run-20250226_182429-h6zosnjg\\logs\\debug-core.log"}
+{"time":"2025-02-26T18:24:29.518859+08:00","level":"INFO","msg":"created new stream","id":"h6zosnjg"}
+{"time":"2025-02-26T18:24:29.518859+08:00","level":"INFO","msg":"stream: started","id":"h6zosnjg"}
+{"time":"2025-02-26T18:24:29.518859+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:24:29.518859+08:00","level":"INFO","msg":"sender: started","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:24:29.518859+08:00","level":"INFO","msg":"handler: started","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:24:30.2472173+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T18:26:47.1988283+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-26T18:26:47.1993455+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-26T18:26:48.2163448+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5071621},{"desc":"uploading config.yaml","runtime_seconds":0.2147323,"progress":"631B/631B"},{"desc":"uploading output.log","runtime_seconds":0.2147323,"progress":"3.2KB/3.2KB"}],"total_operations":3}}
+{"time":"2025-02-26T18:26:48.5228132+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-26T18:26:50.1584575+08:00","level":"INFO","msg":"stream: closing","id":"h6zosnjg"}
+{"time":"2025-02-26T18:26:50.1584575+08:00","level":"INFO","msg":"handler: closed","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:26:50.1584575+08:00","level":"INFO","msg":"sender: closed","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:26:50.1584575+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h6zosnjg"}
+{"time":"2025-02-26T18:26:50.1584575+08:00","level":"INFO","msg":"stream: closed","id":"h6zosnjg"}
