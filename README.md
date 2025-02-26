@@ -19,3 +19,7 @@
     7. Using Nadam, lr = 0.001. **Training result**: Epoch [10/10], Validation Loss: 0.9822, Validation Accuracy: 74.37%. **Testing result**: Test Loss: 1.0437, Test Accuracy: 72.82%
     8. Using Nadam, lr = 0.01. **Training result**: Epoch [10/10], Validation Loss: 1.4060, Validation Accuracy: 50.24%. **Testing result**: Test Loss: 1.4157, Test Accuracy: 49.89%
     9. Using Nadam, lr = 0.1. **Training result**: Epoch [10/10], Validation Loss: 2.3092, Validation Accuracy: 9.78%. **Testing result**: Test Loss: 2.3085, Test Accuracy: 10.00%
+4. Fine-tuing network:
+    1. Using Nadam, lr = 0.001, Batch normalization: Epoch [10/10], Validation Loss: 1.1496, Validation Accuracy: 72.38%
+    2. Using Nadam, lr = 0.001, Batch normalization, Dropout: Epoch [10/10], Validation Loss: 0.7761, Validation Accuracy: 74.23%
+    3. Using Nadam, lr = 0.001, Dropout： Epoch [10/10], Validation Loss: 0.7717, Validation Accuracy: 74.16%
