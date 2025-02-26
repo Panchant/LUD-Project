@@ -23,7 +23,7 @@ with torch.no_grad():
         outputs = model(inputs)
         loss = criterion(outputs, labels)
         test_loss += loss.item()
-        _, predicted = torch.max(outputs.data, 1)  # 获取预测结果
+        _, predicted = torch.max(outputs.data, 1)  
         total += labels.size(0)
         correct += (predicted == labels).sum().item()
 
