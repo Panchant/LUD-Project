@@ -16,3 +16,6 @@
     4. Using SGD, lr = 0.1. **Training result**: Epoch [10/10], Validation Loss: 1.0357, Validation Accuracy: 69.71%. **Testing result**: Test Loss: 1.0472, Test Accuracy: 69.36%
     5. Using SGD, lr = 0.01. **Training result**: Epoch [10/10], Validation Loss: 1.1916, Validation Accuracy: 57.63%. **Testing result**: Test Loss: 1.1860, Test Accuracy: 58.05%
     6. Using SGD, lr = 0.001. **Training result**: Epoch [10/10], Validation Loss: 2.0690, Validation Accuracy: 26.85%. **Testing result**: Test Loss: 2.0540, Test Accuracy: 27.85%
+    7. Using Nadam, lr = 0.001. **Training result**: Epoch [10/10], Validation Loss: 0.9822, Validation Accuracy: 74.37%. **Testing result**: Test Loss: 1.0437, Test Accuracy: 72.82%
+    8. Using Nadam, lr = 0.01. **Training result**: Epoch [10/10], Validation Loss: 1.4060, Validation Accuracy: 50.24%. **Testing result**: Test Loss: 1.4157, Test Accuracy: 49.89%
+    9. Using Nadam, lr = 0.1. **Training result**: Epoch [10/10], Validation Loss: 2.3092, Validation Accuracy: 9.78%. **Testing result**: Test Loss: 2.3085, Test Accuracy: 10.00%
