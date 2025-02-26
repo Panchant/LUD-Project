@@ -39,7 +39,7 @@ for epoch in range(num_epochs):
             outputs = model(inputs)
             loss = criterion(outputs, labels)
             val_loss += loss.item()
-            _, predicted = torch.max(outputs.data, 1)  # 获取预测结果
+            _, predicted = torch.max(outputs.data, 1) 
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
