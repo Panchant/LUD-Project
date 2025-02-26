@@ -9,7 +9,7 @@ train_loader, val_loader, _ = get_data_loaders(data_dir)
 
 model = CNN()
 criterion = nn.CrossEntropyLoss()
-optimizer = optim.SGD(model.parameters(), lr=0.001)
+optimizer = optim.NAdam(model.parameters(), lr=0.1)
 
 num_epochs = 10
 for epoch in range(num_epochs):
